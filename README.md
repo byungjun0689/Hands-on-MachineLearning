@@ -6,4 +6,4 @@ Hands-on-MachineLearning with tensorflow Study Repository
 
  this is Nonprofit. 
 
- - 2018/05/09 : ºÎÆò, Chapter 3. Classification
+ - 2018/05/09 : SY, Chapter 3. Classification
